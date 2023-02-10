@@ -14,9 +14,17 @@ Here's a bit about me..
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I ride a motorcycle to work (in the summer)
 
-
+#### Languages:
 <div>
-  <a href="https://www.npmjs.com/package/@alex-asti-demo-org/common"><img src="https://img.shields.io/badge/%40alex--asti--demo--org%2Fcommon-npm.js-red"/></a>
+ <img src="https://img.shields.io/badge/java-%233178C6?style=for-the-badge&logo=oracle&color=grey"/>
+ <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&color=grey"/>
+ <img src="https://img.shields.io/badge/javascript-%233178C6?style=for-the-badge&logo=javascript&color=grey"/>
+ <img src="https://img.shields.io/badge/kotlin-%233178C6?style=for-the-badge&logo=kotlin&color=grey"/>
+</div>
+
+#### Other Repositories:
+<div>
+  <a href="https://www.npmjs.com/package/@alex-asti-demo-org/common"><img src="https://img.shields.io/badge/%40alex--asti--demo--org%2Fcommon-%20-red?logo=npm"/></a>
      <img src="https://img.shields.io/npm/v/@alex-asti-demo-org/common"/> 
      <img src="https://img.shields.io/npm/types/@alex-asti-demo-org/common">
 </div>
