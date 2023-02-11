@@ -23,7 +23,6 @@ Here's a bit about me..
 #### Languages:
 <div>
  <img src="https://img.shields.io/badge/java-%233178C6?style=for-the-badge&logo=oracle&color=grey"/>
- <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&color=grey"/>
  <img src="https://img.shields.io/badge/javascript-%233178C6?style=for-the-badge&logo=javascript&color=grey"/>
  <img src="https://img.shields.io/badge/kotlin-%233178C6?style=for-the-badge&logo=kotlin&color=grey"/>
 </div>
