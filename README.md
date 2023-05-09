@@ -1,24 +1,21 @@
 ### Hi there 👋 
-### My name is Alexandra Astileanu, and I'm a Java Developer.
+### My name is Alexandra Astileanu, and I'm a Java Developer. 
+I started out as an Automation Engineer with Java, and after 5 years I moved to Development, where I gathered 3.5 years of experience with Payments, E-Commerce and Backend Web Services. 
 
 
 
 Here's a bit about me.. 
 
-- 🔭 I’m currently working on ... [a Ticketing app](https://github.com/astileanua1141/ticketing-app), getting comfortable with Microservices and TypeScript
- 
-- :house_with_garden: On a personal level, I’m currently working on ... 
-  - :apple: Wildfit Program - transforming my relationship with food 
-  - :running_woman: an 18-week Marathon training plan 
+- 🔭 I’m currently working on ... [a Ticketing app](https://github.com/astileanua1141/ticketing-app), T-shaping my skills with TypeScript and Node
   
-- 🌱 I’m currently learning ... Spring Framework
-- :books: I'm currently reading "Head First Design Patterns"
-- 👯 I’m looking to collaborate on ... Payment Processing, Financial Reports, E-commerce, High Frequency Trading
-- 💬 Ask me about ... Refactoring, Design, Test Coverage
+- 🌱 I’m currently learning ... Java 17 
+- :books: I'm currently writing articles for my first technical blog
+- 👯 I’m looking to collaborate on ... Java/Kotlin/TypeScript/React projects, where quality is a key factor
+- 💬 Ask me about ... testing heuristics, HashMaps, enduro motorcycles
 
 - :earth_africa: I am currently based in ... Cluj-Napoca, :romania: Romania  
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I ride a motorcycle to work (in the summer)
+- ⚡ Fun fact: I own a motorcycle
 
 #### Languages:
 <div>
