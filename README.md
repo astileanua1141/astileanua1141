@@ -8,11 +8,6 @@
 ----
 
 - 🔭 I’m currently Working on ... Nest.js, Prisma, Jest
-- 🌱 I’m currently learning ... React, Authentication, Spring JPA
-   
-- :books: I'm currently reading ... REST API design Rulebook
-- 👯 I’m looking to collaborate on ... any project with a focus on quality
-- 💬 Ask me about ... Testing, HashMaps, Motorcycles
 
 - :earth_africa: I am currently based in ... Cluj-Napoca, :romania: Romania  
 - 😄 Pronouns: She/Her
