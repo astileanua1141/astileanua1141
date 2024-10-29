@@ -3,11 +3,11 @@
 - Computer Science was and still is my first love, since I was in 9th grade and I learned Pseudocode, Pascal and C#
 - In the first 5 years of my career ... I worked as a Java Quality Assurance Engineer, because I wanted to really understand what good software really is. I was fascinated by performance-driven fast-paced betting platform (Betfair), writing front-end regression tests for Mobile and Desktop websites and apps. After that, I took a deep dive into backend and integration testing of E-Commerce systems (Media-Markt Saturn).
 - In the last 5 years ... as a Java Developer, I became interested in complex Java secure systems, used in the card Payments industry (FIS Worldpay) and Order Management tools (IBM Sterling), enterprise communication, DevOps and clean code.
-- In the last year... as a Fullstack Engineer, I worked with Spring, React, Node, Nest, Prisma, Postgres and a bunch of technologies which all spell out, "less is more".
+- In 2024... I worked with Spring, React, Node, Nest, Prisma, Postgres and a bunch of technologies which all spell out, "less is more".
 
 ----
 
-- 🔭 I’m currently Working on ... Nest.js, Prisma, Jest
+- 🔭 I’m currently Working on ... developing insanely complex stuff with Node, Typescript and Azure for a company named SAG Digital
 
 - :earth_africa: I am currently based in ... Cluj-Napoca, :romania: Romania  
 - 😄 Pronouns: She/Her
